@@ -1,0 +1,27 @@
+body {
+    background-color: navy;
+    color: white;
+    font-family: sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+nav li {
+    cursor: pointer;
+    margin: 10px;
+}
+
+nav li:hover {
+    text-decoration: underline;
+}
+
+nav li.current {
+    color: orange;
+}
+
+hr {
+    border: 1px solid white;
+}

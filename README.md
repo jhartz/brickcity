@@ -7,6 +7,8 @@ A web-based project selector/visualizer
 Brick City is a web-based interface for listing and allowing selection of
 different web-based items.
 
+Demo: https://jhartz.github.io/brickcity/
+
 ## Usage
 
 Look at the provided `websites.js` and use this as a template to put in your
